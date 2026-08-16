@@ -1,15 +1,17 @@
 ---
 type: Type
 _sidebar_label: Projects
+color: red
+_icon: rocket
 ---
 # Project
 
-```
+```typescript
 ---
 type: Type
 color: red
 sidebar label: Projects
-_icon: rocket
+_icon: screw
 _order: 2
 ---
 
