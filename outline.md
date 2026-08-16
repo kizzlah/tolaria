@@ -1,0 +1,6 @@
+---
+type: Type
+---
+
+# Outline
+
