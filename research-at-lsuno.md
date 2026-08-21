@@ -1,5 +1,6 @@
 ---
 type: Note
+_organized: true
 ---
 # Research at LSUNO
 
@@ -13,4 +14,4 @@ type: Note
   - source for federal announcements and submissions to find and apply for grants
 - National Instituesn of Health (NIH)/National Science Foundation (NSF) Deadlines
 
--
+---
