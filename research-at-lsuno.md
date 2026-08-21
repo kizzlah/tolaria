@@ -1,0 +1,16 @@
+---
+type: Note
+---
+# Research at LSUNO
+
+### Federal Sponsors
+
+- Catalog of Federal Domestic Assistance
+  - CFDA provides details on over 2100 assistance programs
+- Federal Register
+  - daily publication for rulesl, proposed rules, and notices of federal agencies and orgs
+- [Grants.Gov](https://Grants.Gov)
+  - source for federal announcements and submissions to find and apply for grants
+- National Instituesn of Health (NIH)/National Science Foundation (NSF) Deadlines
+
+-
