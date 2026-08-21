@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "tolaria": {
+      "args": [
+        "/Applications/Tolaria.app/Contents/Resources/mcp-server/index.js"
+      ],
+      "command": "node",
+      "disabled": false,
+      "env": {
+        "VAULT_PATH": "/Users/kbc/Documents/Tolaria",
+        "VAULT_PATHS": "[\"/Users/kbc/Documents/Tolaria\"]",
+        "WS_UI_PORT": "9711"
+      }
+    }
+  }
+}
