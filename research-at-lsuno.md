@@ -17,3 +17,17 @@ _organized: true
 ---
 
 [UNO + NSF Application Procedures]([https://www.lsuneworleans.edu/research/funding/proposals/nsf](https://www.lsuneworleans.edu/research/funding/proposals/nsf))
+- UNO provides detailed guides lines for applicants interested in consideration of fundingn from NSF
+
+--- 
+
+### Other Federal Sponsors (for me?)
+
+- CDC
+- National Institute on Drug Abuse (NIDA)
+- National Institutes of Health (NIH)
+- National Institute of Mental Health (NIMH)
+- National Institute of Standards and Technology (NIST)
+- National Library of Medicine (NLM)
+- National Research Library (NRL)
+- 
