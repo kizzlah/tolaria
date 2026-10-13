@@ -1,5 +1,7 @@
 ---
 type: Note
+_favorite: true
+_favorite_index: 4
 ---
 # portent-kid-breakdown
 

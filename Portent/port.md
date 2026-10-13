@@ -1,5 +1,7 @@
 ---
 type: Note
+_favorite: true
+_favorite_index: 3
 ---
 # types
 

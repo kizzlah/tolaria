@@ -3,6 +3,7 @@ type: Type
 _sidebar_label: Projects
 color: red
 _icon: rocket
+visible: false
 ---
 # Project
 
