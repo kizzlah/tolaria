@@ -1,0 +1,10 @@
+name: Starred
+icon: null
+color: null
+order: 0
+sort: null
+filters:
+  all:
+  - field: type
+    op: equals
+    value: ''
