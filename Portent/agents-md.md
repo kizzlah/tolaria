@@ -140,7 +140,7 @@ Use PORT when the object is something to do or operate. Use ENTP when the object
 
 Portent uses two default relationship types.
 
-### belongs\_to
+### belongs_to
 
 Primary context, ownership, or composition.
 
@@ -157,7 +157,7 @@ Most objects should have at most one primary parent for a given organizing purpo
 
 Inverse: `has`, `contains`, or `children`.
 
-### related\_to
+### related_to
 
 Secondary usefulness or association without ownership.
 
