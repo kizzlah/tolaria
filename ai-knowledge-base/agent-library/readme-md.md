@@ -1,5 +1,9 @@
 ---
-type: Note
+type: Markdown
+Status: Done
+date: 2026-10-13
+_icon: file-text
+_organized: true
 ---
 # README.md
 
