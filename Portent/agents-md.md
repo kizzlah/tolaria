@@ -33,7 +33,7 @@ In Markdown, store metadata in frontmatter and use wikilinks for local reference
 
 Example:
 
-```yaml
+```typescript
 ---
 type: Event
 organized: true
