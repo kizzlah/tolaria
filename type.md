@@ -1,6 +1,7 @@
 ---
 type: Type
 order: 0
+visible: false
 ---
 
 # Type
